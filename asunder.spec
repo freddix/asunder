@@ -1,11 +1,11 @@
 Summary:	A graphical Audio CD ripper and encoder
 Name:		asunder
-Version:	2.3
-Release:	2
+Version:	2.7
+Release:	1
 License:	GPL v2
 Group:		X11/Applications/Sound
 Source0:	http://littlesvr.ca/asunder/releases/%{name}-%{version}.tar.bz2
-# Source0-md5:	dd690d8f4c68a2e786c657e08be688d0
+# Source0-md5:	d12743b23180d269263297e4dc4e813d
 URL:		http://littlesvr.ca/asunder/
 BuildRequires:	gettext-devel
 BuildRequires:	gtk+-devel
